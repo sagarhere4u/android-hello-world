@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite name="fastlane.lanes">
+    
+    
+    
+      
+      <testcase classname="fastlane.lanes" name="0: default_platform" time="0.00113">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="1: echo 'Running Shell Command begining!'" time="0.007955">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="2: ls" time="0.009872">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="3: assembleDebug bundleDebug" time="6.46965">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="4: ./test.sh" time="11.064615">
+        
+      </testcase>
+    
+      
+      <testcase classname="fastlane.lanes" name="5: echo 'Gradle Action Finished!'" time="0.013557">
+        
+      </testcase>
+    
+  </testsuite>
+</testsuites>
